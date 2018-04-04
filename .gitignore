@@ -1,3 +1,5 @@
 .DS_Store
 dist/*
 f217.sql
+src/js/apex.interactiveReport.refreshPage.js
+dist
