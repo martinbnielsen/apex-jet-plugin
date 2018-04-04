@@ -1,0 +1,11 @@
+.oj-dvt-datatip, .oj-chart-xaxis-tick-label, .oj-chart-yaxis-tick-label, .oj-chart-y2axis-tick-label, .oj-chart-pie-center-label,
+.oj-chart-xaxis-title, .oj-chart-yaxis-title, .oj-chart-y2axis-title, .oj-chart-tooltip-label, .oj-chart-xaxis-tick-label, .oj-chart-yaxis-tick-label,
+.oj-chart-y2axis-tick-label, .oj-chart-stack-label, .oj-dvt-tooltip, .oj-chart-data-label {
+  font-size: 100%;
+}
+
+.oj-legend-title, .oj-legend-section-title, .oj-legend {
+  font-size: 13px;
+}
+
+/*# sourceMappingURL=apex-jet-plugin.css.map */
